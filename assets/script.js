@@ -1,18 +1,17 @@
 $(document).ready();
 
 // Effect A
+// started the refactoring, only done to first box. problem is that in the function called effectA it refers to Box 1 not to the others that have the same effect.
+function effectA() { 
+  $('#box-one > div:first').fadeOut(100).next().slideDown(500).end().appendTo('#box-one');
+}
+// __________________________
 
 $("#box-one > div:gt(0)").hide();
-
 setInterval(function() { 
-  $('#box-one > div:first')
-    .fadeOut(100)
-    .next()
-    .slideDown(500)
-    .end()
-    .appendTo('#box-one');
-
+	effectA();
 },  2700);	//time control between slides
+
 
 $("#box-three > div:gt(0)").hide();
 
