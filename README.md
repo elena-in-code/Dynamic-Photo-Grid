@@ -1,5 +1,5 @@
 <h1><a href="https://elena-in-code.github.io/Dynamic-Photo-Grid/" target="_blank"><strong>Dynamic-Photo-Grid</strong></a></h1>
-<img src="https://user-images.githubusercontent.com/30567608/29226281-b8c86c6a-7ed1-11e7-8b96-b661fc959992.PNG">
+<img src="https://user-images.githubusercontent.com/30567608/29748137-cf8ce152-8b0f-11e7-9b69-39e388af1a83.gif">
 <p>Dynamic Photo Grid</p>
 <p>This is a <strong>self-initiated project</strong> developed in partnership with <a href="https://github.com/Syknapse/Dynamic-Photo-Grid" target="_blank"> Syk Houdeib </a></p>
 <br>
